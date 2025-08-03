@@ -1,2 +1,2 @@
 # delta-01
-This is a my first repository
+This is a my first repository.
